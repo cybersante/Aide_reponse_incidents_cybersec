@@ -2,7 +2,7 @@
 
 Ce formulaire vous guidera dans la résolution de vos incidents d'hameçonnage.
 
-Il a été realisé par: [la cellule ACSS de l'Agence Numérique Santé](https://cyberveille-sante.gouv.fr/).
+Il a été realisé par [la cellule ACSS de l'Agence Numérique Santé](https://cyberveille-sante.gouv.fr/).
 
 ## Utilisation de l'outil
 
