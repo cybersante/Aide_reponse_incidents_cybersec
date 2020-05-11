@@ -8,7 +8,7 @@
 
 ## Utilisation
 
-Les formulaires sont developpés en javascript avec utilisation de la bilbliotèque [surveyjs](https://surveyjs.io/).
+Les formulaires sont developpés en javascript avec l'utilisation de la bilbliotèque [surveyjs](https://surveyjs.io/).
 
 Pour les utiliser, il suffit de télécharger le contenu du dépot dans un répertoire local, puis d'ouvrir le fichier HTML ("XXX.html") du formulaire voulu avec votre navigateur web et de vous laisser guider.
 Nous vous recommandons d'utiliser firefox avec l'extension [javascript toggler](https://addons.mozilla.org/fr/firefox/addon/javascript-toggler/).
