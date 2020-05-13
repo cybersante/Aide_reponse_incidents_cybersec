@@ -12,5 +12,5 @@ Pour les utiliser, il suffit de télécharger le contenu du dépôt dans un rép
 
 Nous vous recommandons d'utiliser firefox avec l'extension [javascript toggler](https://addons.mozilla.org/fr/firefox/addon/javascript-toggler/).
 
-Lorsque vous aurez répondu à l'ensemble des questions proposées par l'outil, vous pourrez télécharger le rapport au format PDF.
+Lorsque vous aurez répondu à l'ensemble des questions, l'outil générera un rapport au format PDF.
 
