@@ -11,7 +11,6 @@
 Ces outils se présentent sous la forme de formulaires développés en javascript utilisant la bibliothèque [surveyjs](https://surveyjs.io/).
 
 Pour les utiliser, il suffit de télécharger le contenu du dépôt dans un répertoire local, puis d'ouvrir le fichier HTML ("XXX.html") de l'outil recherché avec votre navigateur web et de vous laisser guider.
-Nous vous recommandons d'utiliser firefox avec l'extension [javascript toggler](https://addons.mozilla.org/fr/firefox/addon/javascript-toggler/).
 
 Lorsque vous aurez répondu à l'ensemble des questions, l'outil générera un rapport au format PDF.
 
