@@ -1176,6 +1176,7 @@ $(document).ready(function() {
                 };
                 var surveyPDF = new SurveyPDF.SurveyPDF(json, options);
                 surveyPDF.data = data;
+                surveyPDF.haveCommercialLicense = true;
                 surveyPDF.save(filename);
             }
 
