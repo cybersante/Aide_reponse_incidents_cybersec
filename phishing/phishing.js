@@ -1150,9 +1150,6 @@ $(document).ready(function() {
             survey
                 .onComplete
                 .add(function(result) {
-                    document
-                        .querySelector('#surveyResult')
-                        .textContent = "Result JSON:\n" + JSON.stringify(result.data, null, 3);
                     var pdfWidth = survey.pdfWidth || 210;
                     var pdfHeight = survey.pdfHeight || 297;
                     saveSurveyToPdf("surveyResult.pdf", survey, pdfWidth, pdfHeight, result.data);
